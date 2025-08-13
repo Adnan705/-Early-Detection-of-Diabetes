@@ -39,6 +39,3 @@ Based on the EDA, you can now move forward to predictive modeling using various 
 ## Contributing
 
 This project is for educational purposes and demonstrates a basic EDA approach. Feel free to fork the repository and experiment with different techniques or extend the analysis.
-## 🤝 Contributing
-
-This project is for educational purposes and demonstrates a basic EDA approach. Feel free to fork the repository and experiment with different techniques or extend the analysis.
